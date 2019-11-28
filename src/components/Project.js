@@ -3,7 +3,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import ButtonBase from '@material-ui/core/ButtonBase';
 import Typography from '@material-ui/core/Typography';
 import './Project.css';
-import HoverBtn from './HoverBtn';
 
 const Project = () => {
 

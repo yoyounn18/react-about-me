@@ -1,6 +1,5 @@
 import React from 'react';
 import './AboutMe.css'
-import { faCamera } from '@fortawesome/free-solid-svg-icons';
 
 const AboutMe = () => {
     return(
